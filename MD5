@@ -1,0 +1,15 @@
+7db75dea4fdf4d2635e1b37f7e621e79 *DESCRIPTION
+caebaa140733618cd65a6309da88dee0 *NAMESPACE
+e8f4bb87f17315676d8be04fa242962a *R/class_methods.R
+684d161be18690bdbee0cd55e91b8390 *R/data_docs.R
+d5f182aa9e4b8c3112fb8f3c1ce7da03 *R/distributions.R
+4086dda12f276b199c0f2882b49d181a *R/em.R
+3d43c4e8548b928ef9e5a9d55f276244 *R/ltmix-package.R
+bdc7ee79b4f0b89845c55db7ee8a4fb1 *R/risk_measures.R
+91747012614bfd5bf97c493f8c580f71 *R/top_level.R
+63a0eeaed4448faeb6a10a0657753142 *data/secura.RData
+1ee0525b23dc1f38df01aeded31fb0d2 *man/createLtmmObj.Rd
+82680e095f79073bb62fa124653a67dd *man/ltmix.Rd
+661756ef900453fdf93374e3b1213fca *man/ltmm.Rd
+5defc2d3458f20e9677c73e8ed21525f *man/ltmmCombo.Rd
+05a3363f3ec03977b47a70d36959142f *man/secura.Rd
